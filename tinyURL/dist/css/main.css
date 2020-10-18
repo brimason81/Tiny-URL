@@ -1,0 +1,62 @@
+body {
+  background: #272727;
+  font-weight: 400;
+  color: set-text-color(white);
+}
+
+form {
+  background: #414141;
+  height: 40vw;
+  width: 50vw;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 3px solid #ff652f;
+}
+
+/*
+input[type=file] {
+    width: 80%;
+    background-color: $secondary-color;
+    color:  white;
+    padding:  14px 20px;
+    cursor: pointer;
+}
+*/
+input {
+  text-align: center;
+  padding: 15px 40px;
+  background-color: #ff652f;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+img {
+  padding: 10px 5px;
+}
+
+a {
+  text-align: center;
+  padding: 25px 50px;
+  background-color: #ff652f;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+}
+
+h2, h3, h5 {
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
